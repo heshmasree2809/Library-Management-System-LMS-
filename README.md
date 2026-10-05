@@ -1,4 +1,4 @@
-Library Management System(LMS)
+**Library Management System(LMS)**
 
 Project Description:
 A Library Management System is designed to automate and streamline the operations of a library, enhancing efficiency in managing book inventories, user transactions, and cataloging. The system typically includes functionalities such as:
