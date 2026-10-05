@@ -370,7 +370,7 @@ QR Code Scanning: Facilitates book check-in and check-out processes.
 Mobile App Integration: Enhances accessibility for users on the go.
 
 
-Output:
+**Output:**
 Upon successful implementation, the LMS should provide:
 Automated Book Transactions: Streamlined process for issuing and returning books.
 Real-Time Inventory Tracking: Up-to-date information on book availability.
